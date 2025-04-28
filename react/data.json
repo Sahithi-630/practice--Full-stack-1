@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Aarav Patel",
+      "age": 20,
+      "email": "aarav.patel@example.com",
+      "phone": "9876543210",
+      "course": "Computer Science",
+      "year": "2nd Year",
+      "gpa": 8.5
+    },
+    {
+      "id": 2,
+      "name": "Isha Sharma",
+      "age": 21,
+      "email": "isha.sharma@example.com",
+      "phone": "9876543211",
+      "course": "Mechanical Engineering",
+      "year": "3rd Year",
+      "gpa": 7.8
+    },
+    {
+      "id": 3,
+      "name": "Rohan Mehta",
+      "age": 19,
+      "email": "rohan.mehta@example.com",
+      "phone": "9876543212",
+      "course": "Electrical Engineering",
+      "year": "1st Year",
+      "gpa": 8.0
+    },
+    {
+      "id": 4,
+      "name": "Sneha Verma",
+      "age": 22,
+      "email": "sneha.verma@example.com",
+      "phone": "9876543213",
+      "course": "Civil Engineering",
+      "year": "4th Year",
+      "gpa": 7.5
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "age": 20,
+      "email": "vikram.singh@example.com",
+      "phone": "9876543214",
+      "course": "Information Technology",
+      "year": "2nd Year",
+      "gpa": 8.2
+    },
+    {
+      "id": 6,
+      "name": "Priya Das",
+      "age": 21,
+      "email": "priya.das@example.com",
+      "phone": "9876543215",
+      "course": "Biotechnology",
+      "year": "3rd Year",
+      "gpa": 8.9
+    },
+    {
+      "id": 7,
+      "name": "Yash Raj",
+      "age": 22,
+      "email": "yash.raj@example.com",
+      "phone": "9876543216",
+      "course": "Chemical Engineering",
+      "year": "4th Year",
+      "gpa": 7.7
+    },
+    {
+      "id": 8,
+      "name": "Ananya Iyer",
+      "age": 19,
+      "email": "ananya.iyer@example.com",
+      "phone": "9876543217",
+      "course": "Aerospace Engineering",
+      "year": "1st Year",
+      "gpa": 8.4
+    },
+    {
+      "id": 9,
+      "name": "Devansh Kapoor",
+      "age": 20,
+      "email": "devansh.kapoor@example.com",
+      "phone": "9876543218",
+      "course": "Electronics Engineering",
+      "year": "2nd Year",
+      "gpa": 8.1
+    },
+    {
+      "id": 10,
+      "name": "Simran Kaur",
+      "age": 21,
+      "email": "simran.kaur@example.com",
+      "phone": "9876543219",
+      "course": "Architecture",
+      "year": "3rd Year",
+      "gpa": 8.6
+    },
+    {
+      "id": 11,
+      "name": "Kabir Sinha",
+      "age": 22,
+      "email": "kabir.sinha@example.com",
+      "phone": "9876543220",
+      "course": "Marine Engineering",
+      "year": "4th Year",
+      "gpa": 7.9
+    },
+    {
+      "id": 12,
+      "name": "Meera Joshi",
+      "age": 20,
+      "email": "meera.joshi@example.com",
+      "phone": "9876543221",
+      "course": "Computer Science",
+      "year": "2nd Year",
+      "gpa": 9.0
+    },
+    {
+      "id": 13,
+      "name": "Arjun Reddy",
+      "age": 19,
+      "email": "arjun.reddy@example.com",
+      "phone": "9876543222",
+      "course": "Mechanical Engineering",
+      "year": "1st Year",
+      "gpa": 8.3
+    },
+    {
+      "id": 14,
+      "name": "Tanvi Desai",
+      "age": 21,
+      "email": "tanvi.desai@example.com",
+      "phone": "9876543223",
+      "course": "Civil Engineering",
+      "year": "3rd Year",
+      "gpa": 8.5
+    },
+    {
+      "id": 15,
+      "name": "Rajat Malhotra",
+      "age": 22,
+      "email": "rajat.malhotra@example.com",
+      "phone": "9876543224",
+      "course": "Electrical Engineering",
+      "year": "4th Year",
+      "gpa": 7.6
+    },
+    {
+      "id": 16,
+      "name": "Pooja Rani",
+      "age": 19,
+      "email": "pooja.rani@example.com",
+      "phone": "9876543225",
+      "course": "Information Technology",
+      "year": "1st Year",
+      "gpa": 8.8
+    },
+    {
+      "id": 17,
+      "name": "Nikhil Gupta",
+      "age": 20,
+      "email": "nikhil.gupta@example.com",
+      "phone": "9876543226",
+      "course": "Biotechnology",
+      "year": "2nd Year",
+      "gpa": 7.4
+    },
+    {
+      "id": 18,
+      "name": "Sanya Bhatia",
+      "age": 21,
+      "email": "sanya.bhatia@example.com",
+      "phone": "9876543227",
+      "course": "Chemical Engineering",
+      "year": "3rd Year",
+      "gpa": 8.7
+    },
+    {
+      "id": 19,
+      "name": "Harsh Vardhan",
+      "age": 22,
+      "email": "harsh.vardhan@example.com",
+      "phone": "9876543228",
+      "course": "Aerospace Engineering",
+      "year": "4th Year",
+      "gpa": 7.8
+    },
+    {
+      "id": 20,
+      "name": "Aditi Chauhan",
+      "age": 19,
+      "email": "aditi.chauhan@example.com",
+      "phone": "9876543229",
+      "course": "Architecture",
+      "year": "1st Year",
+      "gpa": 9.1
+    }
+  ]
+  
